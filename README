@@ -1,0 +1,3 @@
+Fork of Amazon's EC2 Tools available from http://developer.amazonwebservices.com/connect/entry.jspa?externalID=368
+
+This is a slightly modified version of Amazon's EC2 AMI tools, which are Copyright Amazon.com, Inc. or its affiliates, and licensed under the Amazon Software License.  In accordance with the terms of such license, I am releasing my version also under the Amazon Software License.
